@@ -4,7 +4,7 @@ A personal web development portfolio showcasing my frontend projects, services a
 
 ## 🔗 Live Portfolio
 
-[Visit My Portfolio](https://dulcet-marshmallow-61bf79.netlify.app/)
+[Visit My Portfolio](https://dashing-crepe-041ece.netlify.app/)
 
 ## 📌 About
 
